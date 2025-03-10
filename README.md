@@ -17,3 +17,4 @@ API REST para gerenciamento de um app de localização de celebrações e evento
 - **SpringDoc OpenAPI (Swagger UI)**
 
 ---
+Em construção ...
