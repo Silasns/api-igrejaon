@@ -9,7 +9,6 @@ API REST para gerenciamento de um app de localização de celebrações e evento
 - **Spring Boot 3.4.3**
 - **Maven**
 - **Docker**
-- ****
 - **PostgreSQL**
 - **Flyway **
 - **Spring Security/Spring Boot OAuth2**
