@@ -10,7 +10,7 @@ API REST para gerenciamento de um app de localização de celebrações e evento
 - **Maven**
 - **Docker**
 - **PostgreSQL**
-- **Flyway **
+- **Flyway**
 - **Spring Security/Spring Boot OAuth2**
 - **Lombok**
 - **SpringDoc OpenAPI (Swagger UI)**
