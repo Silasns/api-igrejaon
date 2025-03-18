@@ -16,4 +16,15 @@ API REST para gerenciamento de um app de localização de celebrações e evento
 - **SpringDoc OpenAPI (Swagger UI)**
 
 ---
+
+Para rodar o banco de dados com docker:
+- Baixe o docker desktop deixe ele aberto
+- Utilize o seguinte comando para startar o banco
+´´´
+docker-compose up -d
+´´´
+- Se precisar derrubar o container para reiniciar o banco utilize:
+´´´
+docker-compose down
+´´´
 Em construção ...
