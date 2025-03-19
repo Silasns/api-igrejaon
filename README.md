@@ -29,4 +29,9 @@ docker-compose up -d
 docker-compose down
 ```
 
+- Se precisar derrubar o container para reiniciar o banco e limpar o banco utilize:
+```
+docker-compose down -d
+```
+
 Em construção ...
