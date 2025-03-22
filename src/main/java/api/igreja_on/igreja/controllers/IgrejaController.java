@@ -1,8 +1,8 @@
-package api.igreja_on.controllers.api;
+package api.igreja_on.igreja.controllers;
 
-import api.igreja_on.domain.Requestigrejausuario;
-import api.igreja_on.domain.UsuarioRepository;
-import api.igreja_on.domain.igrejausuario;
+import api.igreja_on.igreja.domain.Requestigrejausuario;
+import api.igreja_on.igreja.domain.UsuarioRepository;
+import api.igreja_on.igreja.domain.igrejausuario;
 import jakarta.validation.Valid;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.*;
 
 @RestController
 @RequestMapping("/igreja")
-public class Controller {
+public class IgrejaController {
     @Autowired
     private UsuarioRepository repository;
 

@@ -1,4 +1,4 @@
-package api.igreja_on.domain;
+package api.igreja_on.igreja.domain;
 
 import jakarta.persistence.*;
 import lombok.*;
